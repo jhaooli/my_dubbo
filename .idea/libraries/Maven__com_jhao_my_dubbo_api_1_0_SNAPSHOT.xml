@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jhao:my_dubbo-api:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://E:/maven/MavenRepository/com/jhao/my_dubbo-api/1.0-SNAPSHOT/my_dubbo-api-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/maven/MavenRepository/com/jhao/my_dubbo-api/1.0-SNAPSHOT/my_dubbo-api-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/maven/MavenRepository/com/jhao/my_dubbo-api/1.0-SNAPSHOT/my_dubbo-api-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
