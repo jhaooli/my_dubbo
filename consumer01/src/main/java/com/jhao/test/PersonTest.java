@@ -12,10 +12,6 @@ import org.springframework.test.context.TestExecutionListeners;
  */
 public class PersonTest {
 
-
-
-
-
     public static void main(String[] args) {
         //测试常规服务
         ClassPathXmlApplicationContext context =

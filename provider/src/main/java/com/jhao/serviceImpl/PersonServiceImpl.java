@@ -17,14 +17,10 @@ public class PersonServiceImpl implements QueryService {
 
     public String randomString(){
         String str="";
-
         for(int i=0;i<4;i++){
-
             char c=(char)(0x4e00+(int) (Math.random()*(0x9fa5-0x4e00+1)));
-
             str+=c;
         }
-
         return str;
     }
 
